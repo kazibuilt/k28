@@ -88,8 +88,8 @@
                     "type": "vid",
                     "id": "r-v-ho",
                     "url": {
-                      "landscape": "/assets/video/home_desktop2.mp4",
-                      "portrait": "/assets/video/home_mobile2.mp4"
+                      "landscape": "/assets/video/home_desktop.mp4",
+                      "portrait": "/assets/video/home_mobile.mp4"
                     }
                   }
                 ]
